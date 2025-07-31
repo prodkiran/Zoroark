@@ -1,0 +1,11 @@
+# SERIOUS REQUIREMENTS
+python>=3.6  # Mandatory (unless you want Team Rocket to win)
+
+# OPTIONAL BUT FUN
+colorama==0.4.6  # For colored terminal text (Pikachu yellow!)
+numpy==1.26.0    # For "calculating type advantages" (wink)
+requests==2.31.0  # If you add PokeAPI integration later
+
+# JOKE REQUIREMENTS (ACTUALLY SKIPPED)
+zoroark_illusion_engine==999.0  # PSYCHE! Doesn't exist
+pikachu_in_disguise==0.1.0      # Definitely Zoroark
